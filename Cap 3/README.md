@@ -1,4 +1,4 @@
-#Exercícios do Cap 3
+# Exercícios do Cap 3
 
 ## 1) 
 - Utilizando o operador curto de declaração, atribua estes valores às variáveis com os identificadores "x", "y", e "z".
