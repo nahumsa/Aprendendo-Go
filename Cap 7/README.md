@@ -42,3 +42,16 @@
 ## 8) 
 
 - Crie um programa que utilize a declaração switch, sem switch statement especificado.
+
+## 9) 
+
+- Crie um programa que utilize a declaração switch, onde o switch statement seja uma variável do tipo string com identificador "esporteFavorito".
+
+## 10)
+
+- Anote (à mão) o resultado das expressões:
+    - fmt.Println(true && true)
+    - fmt.Println(true && false)
+    - fmt.Println(true || true)
+    - fmt.Println(true || false)
+    - fmt.Println(!true)
